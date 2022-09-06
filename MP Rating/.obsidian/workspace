@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Вопросы Ивана.md",
+            "file": "Processes/Process Marketplace Account Registration.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Вопросы Ивана.md",
+                "file": "Processes/Process Marketplace Account Registration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Вопросы Ивана.md",
+                "file": "Processes/Process Marketplace Account Registration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Вопросы Ивана.md"
+                "file": "Processes/Process Marketplace Account Registration.md"
               }
             }
           }
@@ -139,12 +139,12 @@
   },
   "active": "9566f17c2214b2b9",
   "lastOpenFiles": [
+    "Business Processes/Business Processes.md",
+    "§ Home.md",
+    "Other/Вопросы Ивана.md",
     "Processes/Process Marketplace Account Registration.md",
     "MarketPlaceAccount.md",
-    "Other/Вопросы Ивана.md",
     "Other/Glossarium.md",
-    "§ Home.md",
-    "Business Processes/Business Processes.md",
     "Interview Sessions/2022-09-02 Recon — Спроектировать Backend архитектуру SaaS сервиса.md",
     "Interview Sessions/2022-09-05 — Регистрация аккаунтов.md",
     "Other/FAQ.md",
