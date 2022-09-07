@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: Client, Клиент
+alias: Client, Клиент, Поставщик
 ---
 
 *Последнее редактирование: <%+ tp.file.last_modified_date() %>*

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9566f17c2214b2b9",
+        "id": "d9c14f89223ac676",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Processes/Process Marketplace Account Registration.md",
+            "file": "Business Processes/Business Processes.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processes/Process Marketplace Account Registration.md",
+                "file": "Business Processes/Business Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processes/Process Marketplace Account Registration.md",
+                "file": "Business Processes/Business Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processes/Process Marketplace Account Registration.md"
+                "file": "Business Processes/Business Processes.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9566f17c2214b2b9",
+  "active": "d9c14f89223ac676",
   "lastOpenFiles": [
-    "Business Processes/Business Processes.md",
     "§ Home.md",
+    "Business Processes/Business Processes.md",
+    "Processes/The process of creating a job.md",
     "Other/Вопросы Ивана.md",
-    "Processes/Process Marketplace Account Registration.md",
+    "MarketPlaceSearchResult.md",
+    "People/@Константин.md",
+    "Interview Sessions/2022-09-06 — Создание задания клиентом.md",
     "MarketPlaceAccount.md",
-    "Other/Glossarium.md",
-    "Interview Sessions/2022-09-02 Recon — Спроектировать Backend архитектуру SaaS сервиса.md",
-    "Interview Sessions/2022-09-05 — Регистрация аккаунтов.md",
-    "Other/FAQ.md",
-    "Article.md"
+    "Processes/Process Marketplace Account Registration.md",
+    "Interview Sessions/2022-09-02 Recon — Спроектировать Backend архитектуру SaaS сервиса.md"
   ]
 }
