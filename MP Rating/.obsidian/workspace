@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business Processes/Business Processes.md",
+            "file": "MarketPlaceAccount.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Processes/Business Processes.md",
+                "file": "MarketPlaceAccount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Processes/Business Processes.md",
+                "file": "MarketPlaceAccount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Processes/Business Processes.md"
+                "file": "MarketPlaceAccount.md"
               }
             }
           }
@@ -139,14 +139,14 @@
   },
   "active": "d9c14f89223ac676",
   "lastOpenFiles": [
-    "§ Home.md",
     "Business Processes/Business Processes.md",
-    "Processes/The process of creating a job.md",
     "Other/Вопросы Ивана.md",
+    "MarketPlaceAccount.md",
+    "§ Home.md",
+    "Processes/The process of creating a job.md",
     "MarketPlaceSearchResult.md",
     "People/@Константин.md",
     "Interview Sessions/2022-09-06 — Создание задания клиентом.md",
-    "MarketPlaceAccount.md",
     "Processes/Process Marketplace Account Registration.md",
     "Interview Sessions/2022-09-02 Recon — Спроектировать Backend архитектуру SaaS сервиса.md"
   ]
