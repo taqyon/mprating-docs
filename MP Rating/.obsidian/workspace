@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c14f89223ac676",
+        "id": "7420561993c7d1ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MarketPlaceAccount.md",
+            "file": "§ Home.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarketPlaceAccount.md",
+                "file": "§ Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarketPlaceAccount.md",
+                "file": "§ Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarketPlaceAccount.md"
+                "file": "§ Home.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d9c14f89223ac676",
+  "active": "7420561993c7d1ff",
   "lastOpenFiles": [
-    "Business Processes/Business Processes.md",
-    "Other/Вопросы Ивана.md",
-    "MarketPlaceAccount.md",
+    "Processes/1. Process Marketplace Account Registration.md",
+    "Processes/2. Process of creating an Order.md",
+    "Client.md",
+    "BuyBack.md",
+    "Article.md",
     "§ Home.md",
-    "Processes/The process of creating a job.md",
-    "MarketPlaceSearchResult.md",
-    "People/@Константин.md",
-    "Interview Sessions/2022-09-06 — Создание задания клиентом.md",
-    "Processes/Process Marketplace Account Registration.md",
-    "Interview Sessions/2022-09-02 Recon — Спроектировать Backend архитектуру SaaS сервиса.md"
+    "Requirements/Requirements.md",
+    "Business Processes & Rules/Business Processes.md",
+    "Stakeholders.md",
+    "Order.md"
   ]
 }

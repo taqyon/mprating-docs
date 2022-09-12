@@ -1,29 +1,9 @@
 ---
-
 cssclass: dashboard, max
-
 ---
-
-
-# § Home
-ㅤ
-- 🗄️ Recent file updates
- `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
- 
- - 🔖 Tagged:  Favorite 
- `$=dv.list(dv.pages('#Favorite').sort(f=>f.file.name,"desc").limit(10).file.link)`
-
- - 🏁 Tagged:  Finishup 
- `$=dv.list(dv.pages('#Finishup').sort(f=>f.file.name,"desc").limit(10).file.link)`
-
-- 〽️ Stats
-	-  File Count: `$=dv.pages().length`
-	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
 # MP Rating
 
 [[MP Rating | Сервис]] продвижения [[Article | товаров]] и отзывов на [[MarketPlace | маркетплейсах.]] Начните чтение со статьи [[Business Processes|Бизнес процессы]], из неё протянуты ссылки на другие сущности и аспекты сервиса. 
-
----
 
 - **Общее**
 	- [[Stakeholders | Стейкхолдеры]]
