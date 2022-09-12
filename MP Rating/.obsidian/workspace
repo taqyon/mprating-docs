@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "§ Home.md",
+            "file": "Processes/2. Process of creating an Order.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§ Home.md",
+                "file": "Processes/2. Process of creating an Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "§ Home.md",
+                "file": "Processes/2. Process of creating an Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "§ Home.md"
+                "file": "Processes/2. Process of creating an Order.md"
               }
             }
           }
@@ -139,14 +139,14 @@
   },
   "active": "7420561993c7d1ff",
   "lastOpenFiles": [
+    "Business Processes & Rules/Business Processes.md",
+    "§ Home.md",
     "Processes/1. Process Marketplace Account Registration.md",
     "Processes/2. Process of creating an Order.md",
     "Client.md",
     "BuyBack.md",
     "Article.md",
-    "§ Home.md",
     "Requirements/Requirements.md",
-    "Business Processes & Rules/Business Processes.md",
     "Stakeholders.md",
     "Order.md"
   ]
