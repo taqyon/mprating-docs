@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OrderPickupPoint.md",
+            "file": "Order.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrderPickupPoint.md",
+                "file": "Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrderPickupPoint.md",
+                "file": "Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrderPickupPoint.md"
+                "file": "Order.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "7420561993c7d1ff",
   "lastOpenFiles": [
+    "OrderPickupPoint.md",
     "Order.md",
     "Processes/2. Process of creating an Order.md",
     "Processes/1. Process Marketplace Account Registration.md",
@@ -147,7 +148,6 @@
     "Client.md",
     "Job.md",
     "MarketPlaceAccount.md",
-    "MarketPlaceSearchResult.md",
-    "Stakeholders.md"
+    "MarketPlaceSearchResult.md"
   ]
 }
