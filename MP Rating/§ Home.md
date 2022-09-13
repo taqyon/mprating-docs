@@ -9,7 +9,7 @@ cssclass: dashboard, max
 	- [[Stakeholders | Стейкхолдеры]]
 	- [[Glossarium | Глоссарий]]
 	- [[Business Processes | Бизнес процессы]]
-	- [[Вопросы Ивана]]
+	- [[Вопросы и Задания Ивана]]
 - **Материалы**
 	- [MP Rating Business Process - FigJam](https://www.figma.com/file/Zq9PuRcc7jOjEzvid8yBgE/Business-Process?node-id=0%3A1)
 	- [Сайт](https://mprating.ru/) 

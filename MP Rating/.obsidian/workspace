@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7420561993c7d1ff",
+        "id": "3ab731ede2b106eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Order.md",
+            "file": "Client.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c1dbb007164be9f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PickupPoint.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order.md",
+                "file": "PickupPoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Order.md",
+                "file": "PickupPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Order.md"
+                "file": "PickupPoint.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7420561993c7d1ff",
+  "active": "c1dbb007164be9f3",
   "lastOpenFiles": [
-    "OrderPickupPoint.md",
+    "PickupPointOperator.md",
     "Order.md",
-    "Processes/2. Process of creating an Order.md",
-    "Processes/1. Process Marketplace Account Registration.md",
-    "Article.md",
-    "BuyBack.md",
+    "OrderPickupPoint.md",
     "Client.md",
-    "Job.md",
-    "MarketPlaceAccount.md",
-    "MarketPlaceSearchResult.md"
+    "§ Home.md",
+    "Other/Вопросы и Задания Ивана.md",
+    "BuyBack.md",
+    "Business Processes & Rules/Business Processes.md",
+    "Business Processes & Rules/Business Rules.md",
+    "Processes/2. Process of creating an Order.md"
   ]
 }
