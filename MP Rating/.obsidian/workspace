@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Job.md",
-            "mode": "source",
+            "file": "Business Processes & Rules/Business Processes.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job.md",
+                "file": "Business Processes & Rules/Business Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job.md",
+                "file": "Business Processes & Rules/Business Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job.md"
+                "file": "Business Processes & Rules/Business Processes.md"
               }
             }
           }
@@ -139,8 +139,8 @@
   },
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
-    "BuyBack.md",
     "Job.md",
+    "BuyBack.md",
     "Processes/3. Processing of the Order.md",
     "Article.md",
     "TaskManager.md",
