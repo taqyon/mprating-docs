@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Task.md",
+            "file": "Order.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "Order.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
+    "Other/Вопросы и Задания Ивана.md",
+    "Order.md",
+    "OrderPickupPoint.md",
+    "Job.md",
+    "Task.md",
+    "Processes/3. Processing of the Order.md",
+    "Business Processes & Rules/Business Processes.md",
     "Supervisor.md",
     "TaskManager.md",
-    "Task.md",
-    "Business Processes & Rules/Business Processes.md",
-    "Job.md",
-    "BuyBack.md",
-    "Processes/3. Processing of the Order.md",
-    "Article.md",
-    "Other/Вопросы и Задания Ивана.md",
-    "Requirements/Requirements.md"
+    "BuyBack.md"
   ]
 }
