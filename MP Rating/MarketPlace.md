@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: MarketPlace, Market Place, Маркетплейс
+alias: MarketPlace, Market Place, маркетплейс
 ---
 
 *Последнее редактирование: <%+ tp.file.last_modified_date() %>*
