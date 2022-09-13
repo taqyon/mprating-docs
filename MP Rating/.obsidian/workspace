@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Client.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "c1dbb007164be9f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PickupPoint.md",
+            "file": "Processes/3. Processing of the Order.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PickupPoint.md",
+                "file": "Processes/3. Processing of the Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PickupPoint.md",
+                "file": "Processes/3. Processing of the Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PickupPoint.md"
+                "file": "Processes/3. Processing of the Order.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c1dbb007164be9f3",
+  "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
-    "PickupPointOperator.md",
-    "Order.md",
-    "OrderPickupPoint.md",
-    "Client.md",
-    "§ Home.md",
-    "Other/Вопросы и Задания Ивана.md",
-    "BuyBack.md",
+    "Supervisor.md",
+    "Processes/3. Processing of the Order.md",
+    "Task.md",
+    "TaskManager.md",
+    "Job.md",
     "Business Processes & Rules/Business Processes.md",
-    "Business Processes & Rules/Business Rules.md",
-    "Processes/2. Process of creating an Order.md"
+    "PickupPoint.md",
+    "Client.md",
+    "PickupPointOperator.md",
+    "Order.md"
   ]
 }
