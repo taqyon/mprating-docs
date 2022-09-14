@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Order.md",
+            "file": "BuyBack.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order.md",
+                "file": "BuyBack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Order.md",
+                "file": "BuyBack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Order.md"
+                "file": "BuyBack.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
-    "PickupPoint.md",
-    "OrderPickupPoint.md",
-    "Order.md",
-    "Processes/3. Processing of the Order.md",
-    "Processes/2. Process of creating an Order.md",
-    "Processes/1. Process Marketplace Account Registration.md",
-    "People/@Константин.md",
-    "Other/FAQ.md",
-    "Other/Glossarium.md",
-    "Other/MP Rating.md"
+    "Client.md",
+    "Job.md",
+    "BuyBack.md",
+    "Article.md",
+    "§ Home.md",
+    "Business Processes & Rules/Business Processes.md",
+    "Supervisor.md",
+    "Task.md",
+    "TaskManager.md",
+    "Order.md"
   ]
 }
