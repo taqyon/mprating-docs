@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OrderSchedule.md",
+            "file": "Client.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrderSchedule.md",
+                "file": "Client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrderSchedule.md",
+                "file": "Client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrderSchedule.md"
+                "file": "Client.md"
               }
             }
           }
@@ -140,14 +140,14 @@
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
     "Order.md",
+    "BuyBackPlus.md",
+    "PickupPoint.md",
+    "Business Processes & Rules/Business Processes.md",
+    "Fulfilment.md",
+    "Article.md",
     "OrderSchedule.md",
     "BuyBack.md",
     "Supervisor.md",
-    "Stakeholders.md",
-    "Task.md",
-    "TaskManager.md",
-    "Job.md",
-    "Client.md",
-    "Business Processes & Rules/Business Processes.md"
+    "Stakeholders.md"
   ]
 }
