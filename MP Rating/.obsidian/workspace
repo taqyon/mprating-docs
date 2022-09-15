@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Requirements/Requirements.md",
+            "file": "Payment.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements/Requirements.md",
+                "file": "Payment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirements/Requirements.md",
+                "file": "Payment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirements/Requirements.md"
+                "file": "Payment.md"
               }
             }
           }
@@ -140,14 +140,14 @@
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
     "Business Processes & Rules/Business Processes.md",
+    "Order.md",
+    "Job.md",
+    "BackOfficeOperator.md",
+    "BackOfficeApplication.md",
+    "Other/MP Rating.md",
+    "Requirements/Requirements.md",
     "PickupPointOperator.md",
     "BuyBackPlus.md",
-    "Order.md",
-    "Fulfilment.md",
-    "FulfilmentOperator.md",
-    "Processes/3. Processing of the Order.md",
-    "Client.md",
-    "PickupPoint.md",
-    "Article.md"
+    "Fulfilment.md"
   ]
 }
