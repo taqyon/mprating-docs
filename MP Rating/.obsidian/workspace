@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Job.md",
+            "file": "TaskManager.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job.md",
+                "file": "TaskManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job.md",
+                "file": "TaskManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job.md"
+                "file": "TaskManager.md"
               }
             }
           }
@@ -140,14 +140,14 @@
   "active": "3ab731ede2b106eb",
   "lastOpenFiles": [
     "Task.md",
-    "Job.md",
-    "Order.md",
-    "BuyBack.md",
-    "Client.md",
-    "Article.md",
-    "§ Home.md",
-    "Business Processes & Rules/Business Processes.md",
     "Supervisor.md",
-    "TaskManager.md"
+    "Stakeholders.md",
+    "PickupPointOperator.md",
+    "PickupPoint.md",
+    "Order.md",
+    "MarketPlaceSearchResult.md",
+    "MarketPlaceAccount.md",
+    "MarketPlace.md",
+    "BuyBack.md"
   ]
 }
