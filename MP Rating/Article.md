@@ -1,6 +1,6 @@
 ---
 cssclass: wide
-alias: артикул, Article, Товарная позиция
+alias: артикул, Article, товарная позиция
 ---
 
 *Последнее редактирование: <%+ tp.file.last_modified_date() %>*
