@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab731ede2b106eb",
+        "id": "2005ca2eda425b09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Payment.md",
-            "mode": "preview",
+            "file": "BackOfficeApplication.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payment.md",
+                "file": "BackOfficeApplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Payment.md",
+                "file": "BackOfficeApplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Payment.md"
+                "file": "BackOfficeApplication.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3ab731ede2b106eb",
+  "active": "2005ca2eda425b09",
   "lastOpenFiles": [
+    "BackOfficeOperator.md",
     "BuyBack.md",
-    "Payment.md",
+    "BackOfficeApplication.md",
+    "Монетизация.md",
+    "MarketPlaceAccount.md",
+    "Article.md",
+    "2022-09-16.md",
     "Business Processes & Rules/Business Processes.md",
-    "§ Home.md",
-    "Other/FAQ.md",
-    "Other/Вопросы и Задания Ивана.md",
-    "Processes/3. Processing of the Order.md",
-    "Order.md",
-    "Job.md",
-    "BackOfficeOperator.md"
+    "Interview Sessions/2022-09-05 — Регистрация аккаунтов.md",
+    "§ Home.md"
   ]
 }
