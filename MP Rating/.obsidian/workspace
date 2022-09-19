@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2005ca2eda425b09",
+        "id": "c48aef429c080df1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BackOfficeApplication.md",
-            "mode": "source",
+            "file": "§ Home.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackOfficeApplication.md",
+                "file": "§ Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackOfficeApplication.md",
+                "file": "§ Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackOfficeApplication.md"
+                "file": "§ Home.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2005ca2eda425b09",
+  "active": "c48aef429c080df1",
   "lastOpenFiles": [
-    "BackOfficeOperator.md",
+    "Processes/2. Process of creating an Order.md",
+    "Processes/1. Process Marketplace Account Registration.md",
+    "Business Processes & Rules/Business Processes.md",
+    "Processes/3. Processing of the Order.md",
     "BuyBack.md",
     "BackOfficeApplication.md",
-    "Монетизация.md",
+    "Order.md",
     "MarketPlaceAccount.md",
     "Article.md",
-    "2022-09-16.md",
-    "Business Processes & Rules/Business Processes.md",
-    "Interview Sessions/2022-09-05 — Регистрация аккаунтов.md",
-    "§ Home.md"
+    "MarketPlaceSearchResult.md"
   ]
 }
